@@ -12,7 +12,7 @@
 ---- # but WITHOUT ANY WARRANTY; without even the implied warranty of        #
 ---- # MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the         #
 ---- # GNU General Public License for more details.                          #
----- #  Im EVGEN SPININ FOR TEST                                                               #
+---- #  Im EVGEN SPININ FOR TEST777777777777777777777                                                            #
 ---- #########################################################################
 local options = {
   { "Option1", SOURCE, 1 },
